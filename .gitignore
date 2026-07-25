@@ -1,0 +1,35 @@
+# Simulation outputs
+work/
+INCA_libs/
+xcelium.d/
+xcelium.shm/
+waves.shm/
+*.shm
+*.vcd
+*.fsdb
+*.wlf
+
+# Logs and temporary files
+*.log
+*.jou
+*.history
+*.key
+*.tmp
+*.bak
+*~
+*.cdslock
+
+# Generated timing files
+*.sdf.X
+
+# Synthesis intermediate files
+*.db
+*.ddc
+*.svf
+*.mr
+*.pvl
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
